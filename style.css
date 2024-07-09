@@ -61,7 +61,7 @@ background: rgb(13, 19, 33);
     height:1265px ;
     max-width: 946px;
     margin: 0 auto;
-    border: 2px solid red;
+  
     margin-top: 35px;
 }
 h1{
@@ -79,7 +79,7 @@ line-height: 37px;
 .row1{
     height: 400px;
     max-width: 946;
-    border: 2px solid red;
+   
     display: flex;
  
 }
@@ -92,7 +92,7 @@ line-height: 37px;
 .row111{
     height: 400px;
    width: 50%;
-   border: 2px solid red;
+ 
 }
 
 .row111 img{
@@ -122,7 +122,7 @@ text-align: left;
 .row2{
     height: 400px;
     max-width: 946;
-    border: 2px solid red;
+ 
     display: flex;
  
 }
@@ -133,7 +133,7 @@ text-align: left;
 .row222{
     height: 400px;
    width: 50%;
-   border: 2px solid red;
+  
 }
 .row22 img{
     height: 240px;
@@ -164,16 +164,17 @@ text-align:end;
 .row333{
     height: 400px;
    width: 50%;
-   border: 2px solid red;
 }
 
 .row333 img{
-   margin-left: 30% ;
-   margin-top: 20px;
-   height: 240px;
-   width: 274px;
+    margin-left: 30% ;
+    margin-top: 20px;
+    height: 240px;
+    width: 274px;
+ 
+ }
 
-}
+
 .row33 h3{
     color: rgba(13, 19, 33, 0.7);
 font-family: Azeret Mono;
@@ -194,7 +195,6 @@ text-align: left;
 .row3{
     height: 400px;
     max-width: 946;
-    border: 2px solid red;
-    display: flex;
+   display: flex;
  
 }
