@@ -57,3 +57,51 @@ text-align: center;
 border-radius: 7px;
 background: rgb(13, 19, 33);
 }
+.main-section{
+    height: 1395px;
+    max-width: 1140;
+    border: 2px solid red;
+    margin: 0 auto;
+    text-align: center;
+  }
+.main-section2{
+    height: 1235px;
+    max-width: 946px;
+    border: 2px solid red;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.main{
+    height: 1200px;
+    max-width: 946px;  
+    border: 2px solid red; 
+    margin: 0 auto;
+}
+.main1{
+    height: 400px;
+    max-width: 946px;  
+    border: 2px solid red; 
+    display: flex;
+}
+.main2{
+    height: 400px;
+    max-width: 946px;  
+    border: 2px solid red; 
+}
+.main3{
+    height: 400px;
+    max-width: 946px;  
+    border: 2px solid red; 
+}
+.main-text{
+    height: 400px; 
+    width: 50%;
+    border: 2px solid red; 
+   
+}
+.main-img {
+    height: 400px; 
+width: 50%;
+border: 2px solid red; 
+margin-top: 7px;
+}
