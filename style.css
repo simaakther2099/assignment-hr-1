@@ -3,3 +3,25 @@
     padding: 0%;
     box-sizing: border-box;
 }
+header{
+    height: 652px;
+   max-height: 1440px;
+    background-image: url(./B10A1-Challenge-Begins/assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 34px;
+}
+.bennar{
+   
+    max-width: 998px;
+    height: 582px;
+    border: 2px solid red;
+    margin: 0 auto;
+
+     
+}
+.img{
+  
+margin-left: 30%;
+
+}
