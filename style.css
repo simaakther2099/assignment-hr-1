@@ -3,6 +3,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    font-family: Azeret Mono;
 }
 header{
     height: 640px;
@@ -318,3 +319,21 @@ font-weight: 600;
 border-radius: 8px;
 background: rgb(255, 255, 255);
 }
+.footer-img{
+ max-width: 1140px;
+ height: 34px;
+ margin: 0 auto;
+
+ display: flex;
+}
+.footer-text{
+    height: 34px; 
+ margin-top: 12px;
+    width: 50%;
+    font-family: Azeret Mono;
+   }
+   .footer-img2{
+    height: 34px; 
+ width: 34px;
+ 
+ }
